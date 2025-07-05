@@ -11,3 +11,12 @@ This Analysis Focuses on sales and operations data from the Abuja division betwe
 ## PROJECT OVERVIEW
 To provide actionable insights and recommendations by analysing order data and shipping trends. The dataset was examined using SQL (in SSMS) and excel Pivot Tables)
 To answer 11 key business questions
+## TOOLS USED
+-  Microsoft SQL server Management(SSMS)
+-  Microsoft Excel (Tables, Pivot Tables e.t.c.
+-  Data cleaning (excel)
+-  Data Importation & joins (SQL)
+## Task summary and findings
+ **Task 1**: Highest sales by category
+   -  Query:Agregated sales by  Product category
+   -  Result: O
