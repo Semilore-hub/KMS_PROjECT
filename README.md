@@ -21,4 +21,15 @@ To answer 11 key business questions
  ! [Task 1](Images/task1_ Highest_Category.png)
  
    -  Query:Agregated sales by  Product category
-   -  Result: O
+   -  Result: Technology generated the highest sales
+   -  Insight: Technology are strong revenue drivers- bundling
+ and cross_ promotion can enhance this
+
+## **Task 2**:  Top & bottom 3 regions by sales
+ ! [ task 1](images/task 2_ top and bottom 3 region sales.png)
+   - Query: ranked sales by region
+   - Bottom 3 regions: Nunavut, North west territories, yukon
+   - Top 3 regions: Ontairo,Praire, Atlantic
+   - Insights: Marketing focus should increase in underperforming regions
+     
+ 
