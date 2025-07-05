@@ -75,6 +75,13 @@ To answer 11 key business questions
 der Priority)
  - Query: Analysed Shipping method against order priority.
  - Insight: While high priority orders were often shipped via Delievery truck. some low priority orders also  used it, increasing cost unnecessarily, Recommend stricter shipping policy enforcement.
+ ## Conclusion
+ This analysis provied a clear view of customer behaviour, regional performance, operational inefficiencies. By acting on the insights discovered through SQL and exel e.t.c
+   -  Optimise shipping cost
+   -  Engage top customers
+   -  Improve underperforming regions
+   -  Target product specific promotions
+   -  strenghten Loyality among small businesses
 
    
     
