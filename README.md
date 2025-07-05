@@ -19,7 +19,6 @@ To answer 11 key business questions
 ## Task summary and findings
  **Task 1**: Which Product category had the Highest sales?
  ! [Task 1](Images/task1_ Highest_Category.png)
- 
    -  Query:Agregated sales by  Product category
    -  Result: Technology generated the highest sales
    -  Insight: Technology are strong revenue drivers- bundling
@@ -28,8 +27,8 @@ To answer 11 key business questions
 ## **Task 2**:  Top & bottom 3 regions by sales
  ! [ task 2](images/task 2_ top and bottom 3 region sales.png)
    - Query: ranked sales by region
-   - Bottom 3 regions: Nunavut, North west territories, yukon
-   - Top 3 regions: Ontairo,Praire, Atlantic
+   - Bottom 3 regions: **Nunavut, North west territories, yukon**
+   - Top 3 regions: **Ontairo,Praire, Atlantic**
    - Insights: Marketing focus should increase in underperforming regions
 ## **Task 3**: Total Appliances sales in Ontairo    
   -  Query: Filtered for Product Sub Category= 'appliances' and Province = 'Ontiaro'
@@ -45,21 +44,22 @@ To answer 11 key business questions
    -  Query: Summed Shipping Cost by Ship Mode.
    -  Result: Delivery truck by 51,972 was the most expensive
    -  Insight shipping Priority cost_effetive option for low priority
-
-## ** Task 5**: Highest shipping cost  by mode
-   ! [Task 5](Images/task 5_Highest shipping cost by mode)
-   -  Query: Summed Shipping Cost by Ship Mode.
-   -  Result: Delivery truck by 51,972 was the most expensive
-   -  Insight shipping Priority cost_effetive option for low priority
-   -  
+     
 ## ** Task6**: Most valuable customer and what they buy
    ! [Task 6](Images/task 6_ Most valuable customer)
    -  Query: Top 10 customers by total sales.
-   -  Valuanle customer: Emily Phan was the most valuable customer 
+   -  Valuanle customer: **Emily Phan** was the most valuable customer 
    -  Product Bought: technology
    -  Insight: these customers are crucial_ offerthe, personalized services or premium support
-     
-   -  
+## ** Task 7**: Small business customer with highest sales
+  ! [Download](Images Task 7_ Small business customer)
+   - Query: filtered by customer segment = ' small Business'
+   - Result: One standout small business customer generated the most sales by **DENNIS KANE**
+   -  Insight:  They are a good candidate for long term business engagement
+## ** Task 8**: Most avtive customers( 2009-2012)
+ ! [Download](Images Task 8_ Most Active customer)
+   _ Query: couunted (Order ID) per corporate customers, filtered by year
+   Result: One customer Placed the most order  **ROY SKARIYA**
     
   
  
