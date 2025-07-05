@@ -35,7 +35,7 @@ To answer 11 key business questions
   -  Result: Appliance sales In Ontiro returned Null.But in the excel shhet i worked on it was 20000+
   -  Inight: theee is modest performance here_ could improve through promotions or bundling
 ## **Task 4** Bottom 10 customers by sales
-    ! [Task 4](Images/task 4_ bottom 10 customers by sales)
+  ! [Task 4](Images/task 4_ bottom 10 customers by sales)
   -  Query: ranked customers by total sales( ascending).
   -  Insight: Loyalty programs and discount can help increase retention and sales from these low- performing customers
 
@@ -58,8 +58,26 @@ To answer 11 key business questions
    -  Insight:  They are a good candidate for long term business engagement
 ## ** Task 8**: Most avtive customers( 2009-2012)
  ! [Download](Images Task 8_ Most Active customer)
-   _ Query: couunted (Order ID) per corporate customers, filtered by year
-   Result: One customer Placed the most order  **ROY SKARIYA**
+   _  Query: couunted (Order ID) per corporate customers, filtered by year
+  
+  -  Result: One customer Placed the most order  **ROY SKARIYA**
+  -  Insight: Consider Loyalty contracts or exclusive deals
+## **Task 9**: Most profitable consumer customer
+[download](Image task 9_ Most Profitable consumer customer)
+  -  Query: Filtered for consumer segmnt and sorted by total profit
+  -  Result: A single customer stood out as most profitable By **EMILY PHAN**
+  -  Insight: THis customer could be offered referral bonnuses or early access to new products
+## **Task 10** Returned itmes & segment
+[download](Image task 10_ Returned items and segment)
+  -  Query: joined Order status table to find returned items
+  -  Insight: Most returend came from the **consumer segment, Corporate segment, Home Office segment**. This Indicates Potential issues with product Understanding or expectations. Recommenend Improving [re_ scale product clarity and return policies
+##  Task 11**: Shipping Cost Vs Order Priority
+[download](Image task 11_ Shipping Cost Vs Or![Uploading shipping mode and shipping cost.png…]()
+der Priority)
+ - Query: Analysed Shipping method against order priority.
+ - Insight: While high priority orders were often shipped via Delievery truck. some low priority orders also  used it, increasing cost unnecessarily, Recommend stricter shipping policy enforcement.
+
+   
     
   
  
