@@ -59,7 +59,6 @@ To answer 11 key business questions
 ## ** Task 8**: Most avtive customers( 2009-2012)
  ! [Download](Images Task 8_ Most Active customer)
    _  Query: couunted (Order ID) per corporate customers, filtered by year
-  
   -  Result: One customer Placed the most order  **ROY SKARIYA**
   -  Insight: Consider Loyalty contracts or exclusive deals
 ## **Task 9**: Most profitable consumer customer
