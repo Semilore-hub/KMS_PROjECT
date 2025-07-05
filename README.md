@@ -26,10 +26,22 @@ To answer 11 key business questions
  and cross_ promotion can enhance this
 
 ## **Task 2**:  Top & bottom 3 regions by sales
- ! [ task 1](images/task 2_ top and bottom 3 region sales.png)
+ ! [ task 2](images/task 2_ top and bottom 3 region sales.png)
    - Query: ranked sales by region
    - Bottom 3 regions: Nunavut, North west territories, yukon
    - Top 3 regions: Ontairo,Praire, Atlantic
    - Insights: Marketing focus should increase in underperforming regions
-     
+## **Task 3**: Total Appliances sales in Ontairo    
+  -  Query: Filtered for Product Sub Category= 'appliances' and Province = 'Ontiaro'
+  -  Result: Appliance sales In Ontiro returned Null.But in the excel shhet i worked on it was 20000+
+  -  Inight: theee is modest performance here_ could improve through promotions or bundling
+## **Task 4** Bottom 10 customers by sales
+    ! [Task 4](Images/task 4_ bottom 10 customers by sales)
+  -  Query: ranked customers by total sales( ascending).
+  -  Insight: Loyalty programs and discount can help increase retention and sales from these low- performing customers
+
+  
+  -   
+    
+  
  
