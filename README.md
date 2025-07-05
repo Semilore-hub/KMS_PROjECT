@@ -71,8 +71,7 @@ To answer 11 key business questions
   -  Query: joined Order status table to find returned items
   -  Insight: Most returend came from the **consumer segment, Corporate segment, Home Office segment**. This Indicates Potential issues with product Understanding or expectations. Recommenend Improving [re_ scale product clarity and return policies
 ##  Task 11**: Shipping Cost Vs Order Priority
-[download](Image task 11_ Shipping Cost Vs Or![Uploading shipping mode and shipping cost.png…]()
-der Priority)
+[download](Image task 11_  ![Uploading shipping mode and shipping cost.png…]
  - Query: Analysed Shipping method against order priority.
  - Insight: While high priority orders were often shipped via Delievery truck. some low priority orders also  used it, increasing cost unnecessarily, Recommend stricter shipping policy enforcement.
  ## Conclusion
