@@ -17,6 +17,8 @@ To answer 11 key business questions
 -  Data cleaning (excel)
 -  Data Importation & joins (SQL)
 ## Task summary and findings
- **Task 1**: Highest sales by category
+ **Task 1**: Which Product category had the Highest sales?
+ ! [Task 1](Images/task1_ Highest_Category.png)
+ 
    -  Query:Agregated sales by  Product category
    -  Result: O
