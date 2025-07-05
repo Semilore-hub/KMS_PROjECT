@@ -1,7 +1,7 @@
 # Kultra Mega Stores (KMS) Inventory Anlysis Report
 ## Prepared By:
 ## BAMIGBOYE OLUWASEMILORE DEBORAH 
-# DURATION: 2009 -2012
+### DURATION: 2009 -2012
 
 ## COMPANY BACKGROUND
  KMS stores is a lagos base company specializing in office supplie and funiture.
