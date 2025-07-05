@@ -40,8 +40,26 @@ To answer 11 key business questions
   -  Query: ranked customers by total sales( ascending).
   -  Insight: Loyalty programs and discount can help increase retention and sales from these low- performing customers
 
-  
-  -   
+## ** Task 5**: Highest shipping cost  by mode
+   ! [Task 5](Images/task 5_Highest shipping cost by mode)
+   -  Query: Summed Shipping Cost by Ship Mode.
+   -  Result: Delivery truck by 51,972 was the most expensive
+   -  Insight shipping Priority cost_effetive option for low priority
+
+## ** Task 5**: Highest shipping cost  by mode
+   ! [Task 5](Images/task 5_Highest shipping cost by mode)
+   -  Query: Summed Shipping Cost by Ship Mode.
+   -  Result: Delivery truck by 51,972 was the most expensive
+   -  Insight shipping Priority cost_effetive option for low priority
+   -  
+## ** Task6**: Most valuable customer and what they buy
+   ! [Task 6](Images/task 6_ Most valuable customer)
+   -  Query: Top 10 customers by total sales.
+   -  Valuanle customer: Emily Phan was the most valuable customer 
+   -  Product Bought: technology
+   -  Insight: these customers are crucial_ offerthe, personalized services or premium support
+     
+   -  
     
   
  
